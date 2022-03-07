@@ -1,0 +1,2 @@
+# semana1frontend
+requerimientos
